@@ -1,0 +1,19 @@
+{
+  "name": "CleanJSON",
+  "version": "1.0.0",
+  "description": "Clean some json",
+  "main": "CleanJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylan-baskind/Clean-JSON.git"
+  },
+  "author": "Dylan Baskind / Dan Danilatos - Team Qwilr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-baskind/Clean-JSON/issues"
+  },
+  "homepage": "https://github.com/dylan-baskind/Clean-JSON"
+}
